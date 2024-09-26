@@ -10,8 +10,8 @@ More details of UnrealCV can be found here: https://unrealcv.org/
 
 # Steps to enable plugin and segmentation view
 
-1. The plugin is installed under plugins/UnrealCV. To check if it is enabled, go to Edit > Plugins > Search for Unreal CV > Enable
-2. Under Edit > Project Settings > Platforms > Windows, check if Default RHI is set to DirectX 11
+1. The plugin is installed under Plugins/UnrealCV. To check if it is enabled in Unreal Engine, go to Edit > Plugins > Search for Unreal CV > Enable
+2. Under Edit > Project Settings > Platforms > Windows, ensure that the Default RHI is set to DirectX 11
 3. Press Play
 4. Press the Back Quote (`) key to show console
 5. In the console, enter in `vset /viewmode object_mask`, the scene shall turn similar to the above screenshot
