@@ -1,6 +1,6 @@
 # construction-worker-unrealcv
 
-Project done by Tan Honn Ee Harald
+Project done by Harald Tan
 
 This project is a showcase of how computer vision can be used to detect objects in a picture or a scene, specifically the use of image segmentation and object masks. The Unreal Engine 5 project demonstrates the detection of a construction worker model, as well as key objects of interest (helmet, safety vest, gloves, boots, face). 
 
