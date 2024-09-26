@@ -1,12 +1,14 @@
 # construction-worker-unrealcv
 
-This project is a showcase of how computer vision can be used to detect objects in a picture or a scene, specifically the use of image segmentation and object masks. The Unreal Engine 5 project demonstrates the detection of a construction worker model, as well as key objects of interest (helmet, safety vest, gloves, boots). 
+Project done by Tan Honn Ee Harald
+
+This project is a showcase of how computer vision can be used to detect objects in a picture or a scene, specifically the use of image segmentation and object masks. The Unreal Engine 5 project demonstrates the detection of a construction worker model, as well as key objects of interest (helmet, safety vest, gloves, boots, face). 
 
 Segmentation of the UE5 scene is done using the plugin UnrealCV. Below is a screenshot showcasing how unrealcv is able to detect the various objects in the scene, and assign each object with a unique color.
 
 More details of UnrealCV can be found here: https://unrealcv.org/
 
-![Image](https://i.imgur.com/m5Az2Ci.png)
+![Image](https://i.imgur.com/GM3zyNe.png)
 
 # Steps to enable plugin and segmentation view
 
@@ -16,4 +18,4 @@ More details of UnrealCV can be found here: https://unrealcv.org/
 4. Press the Back Quote (`) key to show console
 5. In the console, enter in `vset /viewmode object_mask`, the scene shall turn similar to the above screenshot
 
-* Note: The colors assigned by UnrealCV to the objects may not be the same as showcased in the screenshot
+* Note: The colors assigned by UnrealCV to the objects may not be the same as showcased in the screenshot. 
