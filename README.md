@@ -8,7 +8,7 @@ Segmentation of the UE5 scene is done using the plugin UnrealCV. Below is a scre
 
 More details of UnrealCV can be found here: https://unrealcv.org/
 
-![Image](https://i.imgur.com/GM3zyNe.png)
+![Image](https://i.imgur.com/0iRGVAw.png)
 
 # Steps to enable plugin and segmentation view
 
